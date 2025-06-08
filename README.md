@@ -1,3 +1,4 @@
 # Notes
 
 ## Python
+- Core Python
