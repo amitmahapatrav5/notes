@@ -1,5 +1,5 @@
 def main():
-    print("Hello from notes!")
+    print("Hello from numpy!")
 
 
 if __name__ == "__main__":
