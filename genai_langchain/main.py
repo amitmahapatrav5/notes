@@ -1,5 +1,5 @@
 def main():
-    print("Hello from numpy!")
+    print("Hello from genai-langchain!")
 
 
 if __name__ == "__main__":
