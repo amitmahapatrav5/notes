@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
-        "Matplotlib"
+        "dotenv",
+        "grandalf",
+        "huggingface",
+        "ipynb",
+        "Langchain",
+        "Matplotlib",
+        "pydantic"
     ]
 }

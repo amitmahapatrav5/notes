@@ -1,7 +1,20 @@
 [project]
-name = "genai-langchain"
+name = "Langchain_Notes"
 version = "0.1.0"
-description = "Add your description here"
+description = ""
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.10"
+
+dependencies = [
+    "grandalf>=0.8",
+    "langchain>=0.3.27",
+    "langchain-anthropic>=0.3.20",
+    "langchain-aws>=0.2.33",
+    "langchain-chroma>=0.2.6",
+    "langchain-community>=0.3.29",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.33",
+    "notebook>=7.4.5",
+    "pydantic>=2.11.9",
+    "python-dotenv>=1.1.1",
+]
